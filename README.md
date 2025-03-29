@@ -16,4 +16,5 @@ A secure CLI-based password manager using AES-256 encryption.
    git clone https://github.com/DevilKing2133/password-manager.git
    cd password-manager
    ```
+
 # password-manager
