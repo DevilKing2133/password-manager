@@ -1,0 +1,3 @@
+cryptography==41.0.7
+pyclip==1.0.6
+click==8.1.7
